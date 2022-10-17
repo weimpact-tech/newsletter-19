@@ -1,0 +1,126 @@
+{
+  "previa": "Construindo um ecossistema com pessoas reais",
+  "artigoDestaque": {
+    "numeroEdicao": "19",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/Imagem_Destaque_N19.png",
+    "alt": "Ebook",
+    "titulo": " Pilar social como atalho para o ESG  links de fundo bege na style= \"color: #520b9e\"!!!!!!!!!!",
+    "texto": [
+    "Ao apostar em boas práticas de ESG, uma startup não colhe apenas os resultados positivos gerados em toda a sociedade e no planeta, mas também maiores índices de inovação, uma boa retenção de talentos, acesso a investimentos...",
+    "Para auxiliar líderes que desejam se inserir ou aperfeiçoar nesta jornada, lançamos um e-book sobre o tema.",
+    "No material, adaptamos a metodologia da KPMG para a realidade do ecossistema, construindo um passo a passo para implementar o ESG nas startups.",
+    "Fazemos isso utilizando o pilar Social - em especial, a equidade de gênero - como ponto de partida. Além disso, partimos do pressuposto de que uma boa ação impulsiona a outa: quando uma empresa passa a adotar práticas de ESG, ela volta seu olhar também para a diversidade & inclusão, e vice e versa." 
+    ],
+    "linkBotao": "https://www.weimpact.tech/ebook-esg-para-startups-we-impact-e-kpmg-desmistificando-jornada/",
+    "botao": "Baixe o conteúdo:"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "É possível captar em meio a tantas incertezas?",
+    "img": "./img/WIN_N19.png",
+    "alt": "Silvia Motta",
+    "linkedinAutora": "",
+    "nomeAutora": "Silvia Motta",
+    "descricaoAutora": "Managing Director Portfolio and Investmens na Movile",
+    "texto": [
+    "Altas taxas de inflação e juros, investidores mais cautelosos e mercado de Venture Capital desacelerando... será que é melhor adiar a rodada de captação ou ainda dá para atrair os recursos que sua startup busca?",
+    "Conversamos com Silvia Motta, Managing Director Portfolio and Investments na Movile, empresa investidora que apoiou grandes startups como ifood e Sympla, entre outras, na América Latina.",
+    "A executiva conta o que startups devem ter para conquistar investimentos no cenário atual, revela 3 tendências para ficar de olho e ainda divide importantes aprendizados de quando esteve do outro lado da mesa, como empreendedora."  
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/blog-investimentos-em-startups-incertezas",
+    "botao": "Ler entrevista"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Uma Bolsa de valores mais jovem, feminina e democrática",
+    "img": "./img/Imagem_DiversidadenaPratica_N19.png",
+    "alt": "imagem ilustrativa",
+    "texto": [
+      "Uma pesquisa da B3 mostrou que as mulheres vêm ocupando seu espaço na Bolsa de Valores!  A média nacional de participação feminina é de 25% dos investimentos, mas cidades como São Paulo (30,51%) e Belo Horizonte (30,03%) já ultrapassaram a marca dos 30%.",
+      "O valor das primeiras aplicações, que caíram de R$ 959 para R$ 125, também indicam que a atividade deixou de ser exclusiva da classe alta.",
+      "Além disso, pessoas com menos de 40 anos representam 53,6% - a maioria dos investidores e investidoras de São Paulo.",
+      "<b>O que você acha da mudança de perfil nesse ambiente?</b>"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": ["texto lista JSON", "texto lista JSON"],
+    "linkBotao": "https://forbes.com.br/carreira/2021/12/nova-diversidade-empresas-buscam-profissionais-40/",
+    "botao": "Fonte: Forbes"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Título JSON",
+    "img": "./img/Foto_DicadaCEO_N19.png",
+    "alt": "Foto Laura Salles",
+    "texto": [
+    "“É muito comum uma empresa começar a trabalhar a diversidade e lembrar dela apenas em março, que é o mês da mulher; em junho, que é o mês do orgulho LGBTQIA+; e em novembro, que é o mês da Consciência Negra. E os outros meses? O que é feito para que essas pautas sejam contínuas? [...]",
+    "Pensar em diversidade não é apenas criar vagas afirmativas, mas também em como desenvolver a pessoa que está chegando como analista, para que se torne C-level no futuro.”",
+    "" 
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Laura Salles",
+    "descricaoAutora": "cofundadora e CEO da Plurie br. Confira mais dicas no [artigo no nosso blog] https://www.weimpact.tech/blog-inovacao-no-mercado-financeiro/ "
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/Imagem_ElasImpactam_N19.png",
+    "alt": "Foto Déborah De Mari, fundadora da Força Meninas",
+    "titulo": "Capacitar as meninas de hoje para serem as CEOs de amanhã",
+    "texto": [
+     "Você sabia que apenas 44% das meninas de alta performance se sentem confiantes sobre suas habilidades?",
+     "Mudar essa realidade é o objetivo da Déborah De Mari, fundadora da Força Meninas, negócio de impacto social para que meninas de 6 a 18 anos possam desenvolver suas habilidades e romper com o ciclo que limita o potencial feminino.",
+     "Até o momento, o projeto já impactou mais de 43 mil meninas em 13 estados e 22 cidades aqui no Brasil."
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://frmeninas.com.br/",
+    "botao": "Conheça o projeto"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/NasMidias_N19.png",
+    "alt": "Inovação como forma de empoderamento feminino",
+    "titulo": "Unbox na PEGN",
+    "texto": [
+      "A WE Impact participou da Women’s Hemispheric Network Conference, que reuniu profissionais da rede para falar sobre empreendedorismo e carreiras femininas.",
+      "Por lá, levantamos soluções para reduzir desafios impostos a mulheres nas startups e na hora de captar investimentos.",
+      "Você pode conferir o painel, que ficou gravado, no site da AS/COA, responsável pelo encontro!"
+    ],
+    "linkBotao": "https://soundcloud.com/ascoa/inclusao-financeira-e-empreendedorismo-closing-the-gap?utm_source=mobi&utm_campaign=social_sharing&utm_terms=reco_roster_override.curated_rosters",
+    "botao": "Acessar gravação"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/NaRede_N19.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Descubra como receber toda semana no seu e-mail um curadoria com as tendências e novidades do ecossistema de inovação, tecnologia, empreendedorismo, feminino e diversidade.",
+    "linkBotao": "https://www.instagram.com/p/Cji_fgCvZAD/?utm_source=ig_web_copy_link",
+    "botao": "Veja o post"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
